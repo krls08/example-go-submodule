@@ -7,6 +7,6 @@ go 1.19
 //replace github.com/krls08/example-go-submodule/logger => ../logger
 
 require (
-	github.com/krls08/example-go-submodule/logger v0.0.1
+	github.com/krls08/example-go-submodule/logger v0.0.2
 	github.com/krls08/go_logger_ex v0.0.3
 )
