@@ -4,3 +4,5 @@ github.com/krls08/example-go-submodule/logger v0.0.2 h1:k8kPWunll37seI97gckMS5qV
 github.com/krls08/example-go-submodule/logger v0.0.2/go.mod h1:/f8+kMQwMh174F/xhM255Bqd5Tm2cj5tTLmEAWNynLs=
 github.com/krls08/go_logger_ex v0.0.3 h1:8cQSuJ0baTJ6F8DqDHma1+ygxPdliuWd6PUdoWFGUnM=
 github.com/krls08/go_logger_ex v0.0.3/go.mod h1:sa5TwdFxnPCmQyJNVi83Uq1B3wwV8TbDbRXyQ3R4VLA=
+github.com/krls08/go_logger_ex v0.0.4-0.20221224143722-ea4015180955 h1:IeaeVuptc6OIXRtjwElwTFAKRZi0M9sGWRGWD2YhxnY=
+github.com/krls08/go_logger_ex v0.0.4-0.20221224143722-ea4015180955/go.mod h1:sa5TwdFxnPCmQyJNVi83Uq1B3wwV8TbDbRXyQ3R4VLA=
